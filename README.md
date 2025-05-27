@@ -1,6 +1,6 @@
 <!-- 상단 웨이브 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Taehyun%20Kim&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=CS%20Major&descAlignY=60&descAlign=63" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Tae%20Hyun%20Kim&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=CS%20Major&descAlignY=60&descAlign=63" />
 </p>
 
 <!-- 👤 Contact -->
