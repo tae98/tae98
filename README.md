@@ -6,7 +6,7 @@
 <!-- 👤 Contact -->
 <p align="center">
   <a href="mailto:98rlaxogus@gmail.com">
-    <img src="https://img.shields.io/badge/email-98rlaxogus@gmail.comm-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/email-98rlaxogus@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/tae98">
     <img src="https://img.shields.io/badge/GitHub-tae98-black?style=for-the-badge&logo=github" />
