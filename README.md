@@ -18,6 +18,12 @@
 
 <!-- 📊 GitHub Stats -->
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tae98&theme=onedark&rank=-C,-?&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tae98&layout=donut&theme=dracula" width="300" />
   <img src="https://github-readme-stats.vercel.app/api?username=tae98&show_icons=true&theme=dracula&rank_icon=default" width="450" />
 </p>
